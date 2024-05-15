@@ -13,7 +13,7 @@ public class ContaTerminal {
 
         //Exibir as mensagens para o nosso usuário
         //Obter pela Scanner os valores digitados no terminal
-        System.out.println("---------------CONTA BANCÁRIA---------------");
+        System.out.println("Bem-vindo(a) ao nosso Banco");
 		System.out.println();
 		System.out.println("Por favor, digite o número da Conta: (1234)");
 		numero = sc.nextInt();
