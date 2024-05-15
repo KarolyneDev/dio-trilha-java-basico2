@@ -15,10 +15,10 @@ public class ContaTerminal {
         //Obter pela Scanner os valores digitados no terminal
         System.out.println("Bem-vindo(a) ao nosso Banco");
 		System.out.println();
-		System.out.println("Por favor, digite o número da Conta: (1234)");
+		System.out.println("Por favor, digite o número da Conta:");
 		numero = sc.nextInt();
 
-		System.out.println("Agora digite o número da Agência: (123-8)");
+		System.out.println("Agora digite o número da Agência:");
 		agencia = sc.next();
 
 		System.out.println("Me informe seu nome: ");
